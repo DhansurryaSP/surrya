@@ -1,0 +1,26 @@
+{
+  "name": "surrya",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhansurryaSP/surrya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhansurryaSP/surrya/issues"
+  },
+  "homepage": "https://github.com/DhansurryaSP/surrya#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  },
+  "keywords": []
+}
